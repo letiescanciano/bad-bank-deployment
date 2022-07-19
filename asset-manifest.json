@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.8aa1ea3b.js",
-    "static/js/787.4d72bf03.chunk.js": "/react-gh-pages/static/js/787.4d72bf03.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.8aa1ea3b.js.map": "/react-gh-pages/static/js/main.8aa1ea3b.js.map",
-    "787.4d72bf03.chunk.js.map": "/react-gh-pages/static/js/787.4d72bf03.chunk.js.map"
+    "main.css": "/bad-bank-deployment/static/css/main.e6c13ad2.css",
+    "main.js": "/bad-bank-deployment/static/js/main.6342a5bb.js",
+    "static/js/787.4d72bf03.chunk.js": "/bad-bank-deployment/static/js/787.4d72bf03.chunk.js",
+    "index.html": "/bad-bank-deployment/index.html",
+    "main.e6c13ad2.css.map": "/bad-bank-deployment/static/css/main.e6c13ad2.css.map",
+    "main.6342a5bb.js.map": "/bad-bank-deployment/static/js/main.6342a5bb.js.map",
+    "787.4d72bf03.chunk.js.map": "/bad-bank-deployment/static/js/787.4d72bf03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8aa1ea3b.js"
+    "static/js/main.6342a5bb.js"
   ]
 }
