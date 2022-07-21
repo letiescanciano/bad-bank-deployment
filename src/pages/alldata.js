@@ -32,13 +32,13 @@ export default function AllData() {
           <tbody>
             {ctx.users.map((user,i) => {
               return (
-                <tr>
-                  <td key={i+'1'}>{user.email}</td>
-                  <td key={i+'2'}>{user.name}</td>
-                  <td key={i+'3'}>{user.password}</td>
-                  <td key={i+'4'}>{ctx.userBalance}</td>
+                <tr key={i}>
+                  <td>{user.email}</td>
+                  <td>{user.name}</td>
+                  <td>{user.password}</td>
+                  <td>{ctx.userBalance}</td>
                 </tr>
-              );
+              )
             })}
           </tbody>
         )}
